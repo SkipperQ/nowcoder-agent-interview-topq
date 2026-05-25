@@ -1,0 +1,11 @@
+drops:
+  - id: Q000220
+    reason: meta_interview_prep
+    note: "这是面试题整理/备考导览问题，不是标准技术面试题，排除出主表和 Top 榜单。"
+
+merges:
+  - target_id: Q000104
+    source_ids:
+      - Q000241
+    canonical_question: "什么是 ReAct？它的思考-行动-观察循环和工具调用流程是怎样的？"
+    reason: "Q000241 是 Q000104 的简化表述，核心考点一致。"

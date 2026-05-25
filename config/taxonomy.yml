@@ -1,0 +1,92 @@
+categories:
+  Agent:
+    tags:
+      - intent_recognition
+      - query_rewrite
+      - tool_calling
+      - memory
+      - planning
+      - react
+      - workflow
+      - multi_turn
+      - multi_agent
+      - orchestration
+  RAG:
+    tags:
+      - chunking
+      - embedding
+      - vector_db
+      - hybrid_search
+      - rerank
+      - query_rewrite
+      - context_construction
+      - hallucination
+      - graph_rag
+      - recall
+  AICoding:
+    tags:
+      - cursor
+      - codex
+      - claude_code
+      - code_agent
+      - code_review
+      - auto_debug
+      - repo_context
+      - patch_generation
+  Prompt:
+    tags:
+      - system_prompt
+      - output_schema
+      - context_engineering
+      - few_shot
+      - prompt_compression
+      - role_prompting
+      - constraints
+  MCP:
+    tags:
+      - mcp_server
+      - tools_list
+      - tools_call
+      - schema
+      - adapter
+      - auth
+      - trace
+      - error_handling
+  CLI:
+    tags:
+      - shell_agent
+      - terminal_execution
+      - approval_mode
+      - sandbox
+      - command_risk
+      - file_ops
+      - process_control
+  Evaluation:
+    tags:
+      - eval_dataset
+      - metrics
+      - human_review
+      - ab_test
+      - recall_precision
+      - hallucination_eval
+      - judge_model
+      - online_eval
+  LLM:
+    tags:
+      - model_selection
+      - model_routing
+      - token_cost
+      - fallback
+      - temperature
+      - fine_tuning
+      - context_window
+      - function_calling
+  OpenEnded:
+    tags:
+      - ai_product_design
+      - project_value
+      - tradeoff
+      - landing_strategy
+      - business_scenario
+      - roadmap
+      - prioritization

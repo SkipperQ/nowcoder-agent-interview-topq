@@ -1,0 +1,28 @@
+# Data files (copyright / PII)
+data/
+raw/
+reports/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Claude Code
+.claude/
+
+# Temporary files
+*.tmp
+*.bak
+tmp_*
+.codex_test_out*.txt
+
+# Environment
+.env
+.env.*
